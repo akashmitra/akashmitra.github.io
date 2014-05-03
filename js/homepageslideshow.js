@@ -36,8 +36,7 @@ $(document).ready(function() {
           
         //reset counter after one round"background-repeat", "no-repeat",bottom center scroll;");
         if(i==4){i=0;}
-
-        i++;
+        else{i++;}
     }
 
 
