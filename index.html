@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en-GB" ng-app="akashmitrapp">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Akash Mitra</title>
+	<!-- meta -->
+	<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+	<!-- Styles & Fonts -->
+	<link rel="stylesheet" id="fonts-css" href="css/fonts.css" type="text/css" media="screen">
+	<link rel="stylesheet" id="fonts-css" href="css/elusive-icons.css" type="text/css" media="screen">
+	<link rel="stylesheet" id="style-css" href="css/common.css" type="text/css" media="screen">
+	<link rel="stylesheet" id="style-css" href="css/lightbox.min.css" type="text/css" media="screen">
+	<!-- JQuery -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+</head>
+<!-- /head -->
+
+<body id="index" class="home page has-portfolio" ng-controller="LandingController">
+	<!-- preloader -->
+	<div id="main-preloader" class="preloader" style="display: none;">
+		<div class="loading">
+			<div class="loading-spin"></div>
+		</div>
+	</div>
+	<!-- /preloader-->
+
+	<!-- header -->
+	<header id="main">
+		<div id="header-inner">
+
+			<!-- logo -->
+			<div id="site-logo">
+				<a href="#">
+					<h1>{{title}}</h1>
+					<p class="desc">Photography &amp; Film</p>
+				</a>
+			</div>
+			<!-- /logo -->
+
+			<!-- primary nav area -->
+			<div id="primary">
+				<nav class="navigation">
+					<div class="nav">
+						<ul id="mainnav" class="menu">
+							<li class="menu-item"><a href="#">About</a></li>
+							<li class="menu-item"><a href="#">Journal</a></li>
+							<li class="menu-item"><a href="#">Contact Me</a></li>
+
+							<!-- Genres-->
+							<li class="menu-item menu-item-has-children" style="margin-top: 25px;"><a href="#">Photography</a>
+								<ul class="sub-menu">
+									<li class="menu-item"><a href="#">Landscape</a></li>
+									<li class="menu-item"><a href="#l">Wildlife</a></li>
+									<li class="menu-item"><a href="#">Nature</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</nav>
+				<select>
+					<option selected="selected" value="">Navigation</option>
+					<option value="about.html">About</option>
+					<option value="journal.html">Journal</option>
+					<option value="contact.html">Contact Me</option>
+					<option value="#">Photography</option>
+					<option value="landscape.html">Landscape</option>
+					<option value="wildlife.html">Wildlife</option>
+					<option value="nature.html">Nature</option>
+				</select>
+			</div>
+			<!-- /primary nav area -->
+
+			<!-- social -->
+			<div id="social">
+				<ul class="nolist">
+					<li class="facebook"><a href="http://demo.lovethemes.co/iso_html/#"><i class="el el-facebook"></i></a></li>
+					<li class="twitter"><a href="http://twitter.com/lovethemes_"><i class="el el-twitter"></i></a></li>
+					<li class="googleplus"><a href="http://demo.lovethemes.co/iso_html/#"><i class="el el-googleplus"></i></a></li>
+					<li class="instagram"><a href="http://demo.lovethemes.co/iso_html/#"><i class="el el-instagram"></i></a></li>
+				</ul>
+			</div>
+			<!-- /social -->
+		</div>
+	</header>
+	<!-- /header -->
+
+
+	<!-- wrapper -->
+	<div id="wrapper">
+		<div id="page">
+
+			<div id="folio" class="masonry" style="position: relative; height: 1723px;">
+				<ul class="nolist">
+
+					<li class="masonry-item"><img src="images/pelican-bay-1024x685.jpg" alt="Pelican Bay">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/pelican-bay-1024x685.jpg" data-lightbox="image-1" title="Pelican Bay"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/transparency-1024x685.jpg" alt="Transparency">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/transparency-1024x685.jpg" data-lightbox="image-2" title="Transparency"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/reach-the-top-1024x681.jpg" alt="Reach the Top">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/reach-the-top-1024x681.jpg" data-lightbox="image-3" title="Reach the Top"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/summer-fields-1024x681.jpg" alt="Summer Fields">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/summer-fields-1024x681.jpg" title="Summer Fields"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/over-the-edge-1024x768.jpg" alt="Over the Edge">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/over-the-edge-1024x768.jpg" title="Over the Edge"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/be-still-1024x683.jpg" alt="Be Still">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/be-still-1024x683.jpg" title="Be Still"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/reflections-1024x499.jpg" alt="Reflections">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/reflections-1024x499.jpg" title="Reflections"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/mr-monkey-1024x731.jpg" alt="Mr Monkey">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/mr-monkey-1024x731.jpg" title="Mr Monkey"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/raging-river-1024x662.jpg" alt="Raging River">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/raging-river-1024x662.jpg" title="Raging River"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/a-slither-of-sun-1024x210.jpg" alt="A Slither of Sun">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/a-slither-of-sun-1024x210.jpg" title="A Slither of Sun"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/eagle-1024x682.jpg" alt="Eagle Eyed">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/eagle-1024x682.jpg" title="Eagle Eyed"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/up-above-768x1024.jpg" alt="Up Above">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/up-above-768x1024.jpg" title="Up Above"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/down-at-the-beach-1024x683.jpg" alt="Down at the Beach">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/down-at-the-beach-1024x683.jpg" title="Down at the Beach"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/the-summit-1024x418.jpg" alt="The Summit">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/the-summit-1024x418.jpg" title="The Summit"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/the-fox-1024x683.jpg" alt="The Fox">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/the-fox-1024x683.jpg" title="The Fox"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/the-gulls-1024x922.jpg" alt="The Gulls">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/the-gulls-1024x922.jpg" title="The Gulls"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/above-the-clouds-1024x683.jpg" alt="Above the Clouds">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/above-the-clouds-1024x683.jpg" title="Above the Clouds"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+
+					<li class="masonry-item"><img src="images/sunset-1024x683.jpg" alt="The Sunset">
+						<div class="caption">
+							<div class="caption-content">
+								<a href="images/sunset-1024x683.jpg" title="The Sunset"><i title="Quick View" class="el el-fullscreen"></i></a>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+
+		</div>
+	</div>
+	<!-- /wrapper -->
+
+
+	<!-- preloader js -->
+	<script type="text/javascript">
+		(function ($) { $(window).load(function () { setTimeout(function () { $("#main-preloader").fadeOut(500); }, 2500); }); })(jQuery);
+	</script>
+
+	<!-- scripts-->
+	<script type="text/javascript" src="js/plugins.js"></script>
+	<script type="text/javascript" src="js/application.js"></script>
+	<script type="text/javascript" src="js/lightbox.min.js"></script>
+
+	<!-- Angular Modules -->
+	<script type="text/javascript" src="angular/app.module.js"></script>
+	<script type="text/javascript" src="angular/app.config.js"></script>
+	<script type="text/javascript" src="angular/app.service.js"></script>
+	<script type="text/javascript" src="angular/landing.controller.js"></script>
+	
+</body>
+
+</html>
