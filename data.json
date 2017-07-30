@@ -1,160 +1,944 @@
 {
   "data": [
     {
-      "title": "Pelican Bay",
-      "desc": "hello World",
+      "title": "Bidai",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/pelican-bay-1024x685.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/bidai.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
     },
     {
-      "title": "Transparency",
-      "desc": "hello World",
+      "title": "Bird",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/transparency-1024x685.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/bird.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
     },
     {
-      "title": "Reach the Top",
-      "desc": "hello World",
+      "title": "Bulls Eye",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/reach-the-top-1024x681.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/bulls-eye.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
     },
     {
-      "title": "Summer Fields",
-      "desc": "hello World",
+      "title": "Diwali",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/summer-fields-1024x681.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/candle.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
     },
     {
-      "title": "Over the Edge",
-      "desc": "hello World",
+      "title": "Choubachcha",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/over-the-edge-1024x768.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/choubachcha.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
     },
     {
-      "title": "Be Still",
-      "desc": "hello World",
+      "title": "Madness",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/be-still-1024x683.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/city-lights.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
     },
     {
-      "title": "Reflections",
-      "desc": "hello World",
+      "title": "Dog's Day",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/reflections-1024x499.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/dog.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
     },
     {
-      "title": "Mr Monkey",
-      "desc": "hello World",
+      "title": "Graffiti",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/mr-monkey-1024x731.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/dog-graffiti.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
     },
     {
-      "title": "Raging River",
-      "desc": "hello World",
+      "title": "Tired",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/raging-river-1024x662.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/dog-tired.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
     },
     {
-      "title": "A Slither of Sun",
-      "desc": "hello World",
+      "title": "Amused",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/a-slither-of-sun-1024x210.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/friend.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
     },
     {
-      "title": "Eagle Eyed",
-      "desc": "hello World",
+      "title": "Glasses",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/eagle-1024x682.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/glasses.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
     },
     {
-      "title": " Up Above",
-      "desc": "hello World",
+      "title": "Going Home",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/up-above-768x1024.jpg",
-      "cluster": "image-1",
-      "tags": []
-    },{
-      "title": "Down at the Beach",
-      "desc": "hello World",
+      "date": "",
+      "imageurl": "images/photographs/single/going-home.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Kitty",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/down-at-the-beach-1024x683.jpg",
-      "cluster": "image-1",
-      "tags": []
-    },{
-      "title": "The Summit",
-      "desc": "hello World",
+      "date": "",
+      "imageurl": "images/photographs/single/kitty.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Kolkata Kid",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/the-summit-1024x418.jpg",
-      "cluster": "image-1",
-      "tags": []
-    },{
-      "title": "The Fox",
-      "desc": "hello World",
+      "date": "",
+      "imageurl": "images/photographs/single/kolkata-kid.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Long Road",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/the-fox-1024x683.jpg",
-      "cluster": "image-1",
-      "tags": []
-    },{
-      "title": "The Gulls",
-      "desc": "hello World",
+      "date": "",
+      "imageurl": "images/photographs/single/lonesome-dog.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Memoires of Maladies",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/the-gulls-1024x922.jpg",
-      "cluster": "image-1",
-      "tags": []
-    },{
-      "title": "Above the Clouds",
-      "desc": "hello World",
+      "date": "",
+      "imageurl": "images/photographs/single/maladies.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Tired",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/above-the-clouds-1024x683.jpg",
-      "cluster": "image-1",
-      "tags": []
-    },{
-      "title": "The Sunset",
-      "desc": "hello World",
+      "date": "",
+      "imageurl": "images/photographs/single/man-tired.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Subway Men",
+      "desc": "",
       "location": "Kolkata",
-      "date": "17/12/2017",
-      "imageurl": "images/sunset-1024x683.jpg",
-      "cluster": "image-1",
-      "tags": []
+      "date": "",
+      "imageurl": "images/photographs/single/men-subway.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Missing Girls",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/missing-girls.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Morning Girl",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/morning-girl.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Tea",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/morning-tea.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Rear View",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/rearview.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Juice of Life",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/rest-man.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Wheels",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/rickshaw-puller.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Runaway Bird",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/runaway-bird.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Slide Ride",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/slideride.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Smoker",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/smoker.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Stairways to Chad",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/stairways.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Tank",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/tank.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Kolkata Tramways",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/tram.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Village Woman",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/village-woman.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "White Walker",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/walker.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Christmas Candles",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/christmas-candles.jpg",
+      "cluster": "christmaspast",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Christ",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/jesus-christ.jpg",
+      "cluster": "christmaspast",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Midnight Mass",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/midnight-mass.jpg",
+      "cluster": "christmaspast",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "St. Johns",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/st-johns.jpg",
+      "cluster": "christmaspast",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "St. Johns",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/stjohns-angel.jpg",
+      "cluster": "christmaspast",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "St. Johns",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/stjohns-church.jpg",
+      "cluster": "christmaspast",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "St. Johns",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/stjohns-statue.jpg",
+      "cluster": "christmaspast",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_1.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_2.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_4.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_7.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_8.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_10.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_11.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_12.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_13.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Dhunuchi Nach",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/dhunuchi/dhunuchi_14.jpg",
+      "cluster": "dhunuchi",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Coffee House",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/food/coffee-house.jpg",
+      "cluster": "foodandtravel",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Breakfast@Flurys",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/food/flurys-breakfast.jpg",
+      "cluster": "foodandtravel",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Mocktail",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/food/mocktail.jpg",
+      "cluster": "foodandtravel",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Oriental Salad",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/food/oriental-salads.jpg",
+      "cluster": "foodandtravel",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Prawn Martini",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/food/prawn-martini.jpg",
+      "cluster": "foodandtravel",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/limcastudio/studio_1.jpg",
+      "cluster": "limcastudio",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/limcastudio/studio_2.jpg",
+      "cluster": "limcastudio",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/limcastudio/studio_3.jpg",
+      "cluster": "limcastudio",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/limcastudio/studio_4.jpg",
+      "cluster": "limcastudio",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/limcastudio/studio_5.jpg",
+      "cluster": "limcastudio",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/limcastudio/studio_6.jpg",
+      "cluster": "limcastudio",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "VAT",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/arijit-party.jpg",
+      "cluster": "nesha",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Tasher Desh",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/ayash-cards.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Injurious",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/ayash-smoke.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Orkos",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/beer-orkos.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Tasher Desh",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/cards.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Tasher Desh",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/priyanshu-cards.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Injurious",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/priyanshu-smoke.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Injurious",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/shaun-morning.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Morning",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/ujani-sleep.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Peekaboo",
+      "desc": "",
+      "location": "Chuikhim",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/chuikhim-bikas.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Bindya",
+      "desc": "",
+      "location": "Chuikhim",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/chuikhim-bindya.jpg",
+      "cluster": "outreach",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Chuikhim",
+      "desc": "",
+      "location": "Chuikhim",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/chuikhim-kids.jpg",
+      "cluster": "outreach",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Parade",
+      "desc": "",
+      "location": "Chuikhim",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/chuikhim-parade.jpg",
+      "cluster": "outreach",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Playtime",
+      "desc": "",
+      "location": "Gorchumuk",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/gorchumuk-kids.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Chuti",
+      "desc": "",
+      "location": "Maryada",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/chuti.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Eyes",
+      "desc": "",
+      "location": "Maryada",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/hotor-family.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Hotor Girl",
+      "desc": "",
+      "location": "Maryada",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/hotor-girl.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Thakuma",
+      "desc": "",
+      "location": "Maryada",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/hotor-thakuma.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Ellow",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/jspk-shoes.jpg",
+      "cluster": "outreach",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Now you see me",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/rainbow-girls.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Dreams",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/shishumon-boy.jpg",
+      "cluster": "outreach",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Kid",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/shishumon-kid.jpg",
+      "cluster": "outreach",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Kid",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/shisumon-girl.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Drives",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/rides/car-bud.jpg",
+      "cluster": "foodandtravel",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Drives",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/rides/cars-music.jpg",
+      "cluster": "foodandtravel",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Drives",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/rides/heineken-car.jpg",
+      "cluster": "foodandtravel",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Drives",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/rides/heineken-pizza.jpg",
+      "cluster": "foodandtravel",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Durga Pujo",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/pujo_1.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Durga Pujo",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/pujo_2.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Durga Pujo",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/pujo_4.jpg",
+      "cluster": "durgapujo",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Durga Pujo",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/pujo_5.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Durga Pujo",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/pujo_6.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Durga Pujo",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/pujo_7.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Durga Pujo",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/pujo_8.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
     }
   ]
 }

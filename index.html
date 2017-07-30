@@ -35,7 +35,7 @@
 			<div id="site-logo">
 				<a href="index.html">
 					<h1>{{title}}</h1>
-					<p class="desc">Photography &amp; Film</p>
+					<p class="desc">A Photo Blog</p>
 				</a>
 			</div>
 			<!-- /logo -->
@@ -49,11 +49,16 @@
 							<li class="menu-item"><a href="#">Journal</a></li>
 
 							<!-- Genres-->
-							<li class="menu-item menu-item-has-children" style="margin-top: 25px;"><a href="#">Photography</a>
+							<li class="menu-item menu-item-has-children" style="margin-top: 25px;"><a href="#">Singles</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="#">Landscape</a></li>
-									<li class="menu-item"><a href="#l">Wildlife</a></li>
-									<li class="menu-item"><a href="#">Nature</a></li>
+									<li class="menu-item"><a href="#l" ng-click="setFilterCriteria('bw')">Monochrome</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('color')">Stories</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('christmaspast')">Of Christmas Past</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('dhunuchi')">Dhunuchi</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('limcastudio')">Limca Studio</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('nesha')">Nesha</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('outreach')">Outreach</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('foodandtravel')">Food and Travel</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -77,7 +82,6 @@
 				<ul class="nolist">
 					<li class="facebook"><a href="https://www.facebook.com/akash.mitter"><i class="el el-facebook"></i></a></li>
 					<li class="twitter"><a href="https://twitter.com/lifeisbhram"><i class="el el-twitter"></i></a></li>
-					<li class="googleplus"><a href="http://demo.lovethemes.co/iso_html/#"><i class="el el-googleplus"></i></a></li>
 					<li class="instagram"><a href="https://www.instagram.com/iamakashmitra/"><i class="el el-instagram"></i></a></li>
 				</ul>
 			</div>
@@ -92,7 +96,7 @@
 		<div id="page">
 
 			<div id="folio" class="masonry" style="position: relative; height: 1723px;">
-				<ul class="nolist" ng-repeat="image in imageList">
+				<ul class="nolist" ng-repeat="image in imageList | filter: filterCriteria">
 
 					<li class="masonry-item"><img src="{{image.imageurl}}" alt="{{image.title}}">
 						<div class="caption">
