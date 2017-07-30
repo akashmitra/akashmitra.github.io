@@ -1,0 +1,9 @@
+{
+  "name": "akashmitra-portfolio",
+  "version": "0.0.1",
+  "description": "Portfolio of Akash Mitra",
+  "dependencies": {},
+  "scripts": {
+    "start": "http-server"
+  }
+}
