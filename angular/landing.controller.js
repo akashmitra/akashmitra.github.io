@@ -13,6 +13,8 @@
 
     dataservice.getImageDetails().then(function (response) {
       console.log('Response :: ', response);
+      vm.imageList = response.data;
+      
     }).catch(function (error) {
       console.log('Error :: ', error);
     });

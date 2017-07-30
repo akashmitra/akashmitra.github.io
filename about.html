@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="en-GB" ng-app="akashmitrapp">
 <!-- head -->
 
 <head>
@@ -12,11 +12,14 @@
 	<link rel="stylesheet" id="fonts-css" href="css/fonts.css" type="text/css" media="screen">
 	<link rel="stylesheet" id="fonts-css" href="css/elusive-icons.css" type="text/css" media="screen">
 	<link rel="stylesheet" id="style-css" href="css/common.css" type="text/css" media="screen">
-	<!-- jquery -->
+	<link rel="stylesheet" id="style-css" href="css/lightbox.min.css" type="text/css" media="screen">
+	<!-- JQuery -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
 </head>
 <!-- /head -->
 
-<body id="index" class="home page has-portfolio">
+<body id="index" class="home page has-portfolio" ng-controller="AboutController">
 
 	<!-- preloader -->
 	<div id="main-preloader" class="preloader" style="display: none;">
@@ -32,7 +35,7 @@
 
 			<!-- logo -->
 			<div id="site-logo">
-				<a href="http://demo.lovethemes.co/iso_html/">
+				<a href="./">
 					<h1>Akash Mitra</h1>
 					<p class="desc">Photography &amp; Film</p>
 				</a>
