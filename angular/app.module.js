@@ -1,6 +1,6 @@
 (function () {
   'use strict';
 
-  angular.module('akashmitrapp', []);
+  angular.module('akashmitrapp', ['ngRoute']);
 
 }());
