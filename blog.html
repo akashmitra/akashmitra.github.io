@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-GB" ng-app="akashmitrapp">
+<!-- head -->
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -18,7 +19,8 @@
 </head>
 <!-- /head -->
 
-<body id="index" class="home page has-portfolio" ng-controller="LandingController">
+<body id="index" class="home page has-portfolio" ng-controller="BlogController">
+
 	<!-- preloader -->
 	<div id="main-preloader" class="preloader" style="display: none;">
 		<div class="loading">
@@ -33,7 +35,7 @@
 
 			<!-- logo -->
 			<div id="site-logo">
-				<a href="#">
+				<a href="./">
 					<h1>{{title}}</h1>
 					<p class="desc">A Photo Journal</p>
 				</a>
@@ -46,21 +48,7 @@
 					<div class="nav">
 						<ul id="mainnav" class="menu">
 							<li class="menu-item"><a href="about.html">About</a></li>
-							<li class="menu-item"><a href="blog.html">Journal</a></li>
-
-							<!-- Genres-->
-							<li class="menu-item menu-item-has-children" style="margin-top: 25px;"><a href="#">Singles</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="#l" ng-click="setFilterCriteria('bw')">Monochrome</a></li>
-									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('color')">Stories</a></li>
-									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('christmaspast')">Of Christmas Past</a></li>
-									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('dhunuchi')">Dhunuchi</a></li>
-									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('limcastudio')">Limca Studio</a></li>
-									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('nesha')">Indulgence</a></li>
-									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('outreach')">Outreach</a></li>
-									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('foodandtravel')">Food and Travel</a></li>
-								</ul>
-							</li>
+							<li class="menu-item"><a href="#">Journal</a></li>
 						</ul>
 					</div>
 				</nav>
@@ -81,28 +69,21 @@
 	<!-- /header -->
 
 
-	<!-- wrapper -->
 	<div id="wrapper">
-		<div id="page">
+		<div id="page" class="two_third">
 
-			<div ng-bind-html="descontent" id="desc" style="text-align: right;" ng-show="showdesc"></div>
+			<h1>Blog</h1>
+			<hr>
 
-			<div id="folio" class="masonry" style="position: relative; height: 1723px;">
-				<ul class="nolist" ng-repeat="image in imageList | filter: filterCriteria">
+			<!-- <p>Writing </p>
 
-					<li class="masonry-item">
-						<a ng-href="{{image.imageurl}}" data-lightbox="{{image.cluster}}" title="{{image.title}}">
-							<img ng-src="{{image.imageurl}}" alt="{{image.title}}">
-						<div class="caption">
-							<div class="caption-content">
-								<i title="Quick View" class="el el-fullscreen"></i>
-							</div>
-						</div>
-						</a>
-					</li>
+			<p>Photoenthusiast. Photographer. Photojournalist. Photosynthesis.</p>
 
-				</ul>
-			</div>
+			<blockquote>
+				<p>Foodie. Poet. Stargazer. Javascript Fanboy. Film fanatic. And a Hobo!</p>
+			</blockquote>
+
+			<p>I guess..you've got the drift ...</p> -->
 
 		</div>
 	</div>
@@ -115,16 +96,17 @@
 	</script>
 
 	<!-- scripts-->
+	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/plugins.js"></script>
 	<script type="text/javascript" src="js/application.js"></script>
-	<script type="text/javascript" src="js/lightbox.min.js"></script>
 
 	<!-- Angular Modules -->
 	<script type="text/javascript" src="js/angular-route.min.js"></script>
 	<script type="text/javascript" src="angular/app.module.js"></script>
 	<script type="text/javascript" src="angular/app.config.js"></script>
 	<script type="text/javascript" src="angular/app.service.js"></script>
-	<script type="text/javascript" src="angular/landing.controller.js"></script>
+	<script type="text/javascript" src="angular/about.controller.js"></script>
+
 
 </body>
 
