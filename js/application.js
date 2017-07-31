@@ -7,8 +7,7 @@
     $("<option />", {
        "selected": "selected",
        "value"   : "",
-       "text"    : "Navigation",
-       ""
+       "text"    : "Navigation"
     }).appendTo("#primary select");
     
     // populate dropdown

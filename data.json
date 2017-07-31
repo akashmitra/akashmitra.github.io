@@ -650,16 +650,16 @@
       "tags": "bw",
       "rate": ""
     },
-    {
-      "title": "Tasher Desh",
-      "desc": "",
-      "location": "Kolkata",
-      "date": "",
-      "imageurl": "images/photographs/stories/nesha/priyanshu-cards.jpg",
-      "cluster": "nesha",
-      "tags": "bw",
-      "rate": ""
-    },
+    // {
+    //   "title": "Tasher Desh",
+    //   "desc": "",
+    //   "location": "Kolkata",
+    //   "date": "",
+    //   "imageurl": "images/photographs/stories/nesha/priyanshu-cards.jpg",
+    //   "cluster": "nesha",
+    //   "tags": "bw",
+    //   "rate": ""
+    // },
     {
       "title": "Injurious",
       "desc": "",
