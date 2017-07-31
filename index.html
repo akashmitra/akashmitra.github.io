@@ -90,12 +90,15 @@
 			<div id="folio" class="masonry" style="position: relative; height: 1723px;">
 				<ul class="nolist" ng-repeat="image in imageList | filter: filterCriteria">
 
-					<li class="masonry-item"><img src="{{image.imageurl}}" alt="{{image.title}}">
+					<li class="masonry-item">
+						<a ng-href="{{image.imageurl}}" data-lightbox="{{image.cluster}}" title="{{image.title}}">
+							<img ng-src="{{image.imageurl}}" alt="{{image.title}}">
 						<div class="caption">
 							<div class="caption-content">
-								<a href="{{image.imageurl}}" data-lightbox="{{image.cluster}}" title="{{image.title}}"><i title="Quick View" class="el el-fullscreen"></i></a>
+								<i title="Quick View" class="el el-fullscreen"></i>
 							</div>
 						</div>
+						</a>
 					</li>
 
 				</ul>
