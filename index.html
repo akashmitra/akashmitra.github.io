@@ -35,7 +35,7 @@
 			<div id="site-logo">
 				<a href="index.html">
 					<h1>{{title}}</h1>
-					<p class="desc">A Photo Blog</p>
+					<p class="desc">A Photo Journal</p>
 				</a>
 			</div>
 			<!-- /logo -->
@@ -56,7 +56,7 @@
 									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('christmaspast')">Of Christmas Past</a></li>
 									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('dhunuchi')">Dhunuchi</a></li>
 									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('limcastudio')">Limca Studio</a></li>
-									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('nesha')">Nesha</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('nesha')">Indulgence</a></li>
 									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('outreach')">Outreach</a></li>
 									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('foodandtravel')">Food and Travel</a></li>
 								</ul>
@@ -84,6 +84,8 @@
 	<!-- wrapper -->
 	<div id="wrapper">
 		<div id="page">
+
+			<div ng-bind-html="descontent" id="desc" style="text-align: right;" ng-show="showdesc"></div>
 
 			<div id="folio" class="masonry" style="position: relative; height: 1723px;">
 				<ul class="nolist" ng-repeat="image in imageList | filter: filterCriteria">
