@@ -5,7 +5,7 @@
     .module('akashmitrapp')
     .controller('LandingController', LandingController);
 
-  function LandingController($scope, $sce, dataservice) {
+  function LandingController($scope, $sce, $window, dataservice) {
     var vm = $scope;
     vm.title = "Akash Mitra";
     vm.filterCriteria = "star"; // default show the best ones
@@ -21,6 +21,7 @@
           vm.descontent = $sce.trustAsHtml(story.desc);
         }
       }, this);
+      $window.scrollTo(0, 0);
     };
 
     /** Data Service that fetches imageList from the data Source */
