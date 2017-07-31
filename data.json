@@ -641,16 +641,6 @@
       "rate": ""
     },
     {
-      "title": "Tasher Desh",
-      "desc": "",
-      "location": "Kolkata",
-      "date": "",
-      "imageurl": "images/photographs/stories/nesha/cards.jpg",
-      "cluster": "nesha",
-      "tags": "bw",
-      "rate": ""
-    },
-    {
       "title": "Injurious",
       "desc": "",
       "location": "Kolkata",
@@ -679,6 +669,16 @@
       "cluster": "nesha",
       "tags": "bw",
       "rate": "star"
+    },
+    {
+      "title": "Tasher Desh",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/cards.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": ""
     },
     {
       "title": "Peekaboo",
