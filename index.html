@@ -33,7 +33,7 @@
 
 			<!-- logo -->
 			<div id="site-logo">
-				<a href="#">
+				<a href="#" ng-click="filterCriteria = 'star';descontent = null;">
 					<h1>{{title}}</h1>
 					<p class="desc">A Photo Journal</p>
 				</a>
@@ -51,7 +51,7 @@
 							<!-- Genres-->
 							<li class="menu-item menu-item-has-children" style="margin-top: 25px;"><a href="#" ng-click="setFilterCriteria('singles')">Singles</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="#l" ng-click="setFilterCriteria('bw')">Monochrome</a></li>
+									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('bw')">Monochrome</a></li>
 									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('color')">Stories</a></li>
 									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('christmaspast')">Of Christmas Past</a></li>
 									<li class="menu-item"><a href="#" ng-click="setFilterCriteria('dhunuchi')">Dhunuchi</a></li>
