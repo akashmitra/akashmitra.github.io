@@ -90,6 +90,10 @@
       "desc": `<h5>Food and Travel</h5> 
               <p>To travel is to eat. And to eat is to travel.</p>
               <p>Kolkata 2015</p>`
+    },{
+      "type": "singles",
+      "desc": `<h5>Singles</h5> 
+              <p>Kolkata</p>`
     }
   ];
 
