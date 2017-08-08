@@ -5272,7 +5272,12 @@ h5 {
 h6 {
     font-size: 110%;
 }
-@media only screen and (min-width: 321px) {}@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 321px) {
+    .responsivefix{
+        padding-top:75px;
+    }
+}
+@media only screen and (min-width: 767px) {
     ::-webkit-scrollbar {
         width: 5px;
         background: #444444;
@@ -5384,6 +5389,9 @@ h6 {
     #primary select {
         display: none;
     }
+    .responsivefix{
+        display: none;
+    }
     a.cart-button {
         right: 100px;
         top: 48px;
@@ -5485,6 +5493,9 @@ h6 {
     #primary select {
         display: none;
     }
+    .responsivefix{
+        display: none;
+    }
     a.cart-button {
         right: 100px;
         top: 48px;
@@ -5584,6 +5595,9 @@ h6 {
         display: inherit;
     }
     #primary select {
+        display: none;
+    }
+    .responsivefix{
         display: none;
     }
     #header-text h1 {
