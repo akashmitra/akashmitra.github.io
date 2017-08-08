@@ -201,16 +201,6 @@
       "rate": "star"
     },
     {
-      "title": "Tea",
-      "desc": "",
-      "location": "Kolkata",
-      "date": "",
-      "imageurl": "images/photographs/single/morning-tea.jpg",
-      "cluster": "singles",
-      "tags": "color",
-      "rate": ""
-    },
-    {
       "title": "Rear View",
       "desc": "",
       "location": "Kolkata",
@@ -276,16 +266,6 @@
       "location": "Kolkata",
       "date": "",
       "imageurl": "images/photographs/single/stairways.jpg",
-      "cluster": "singles",
-      "tags": "bw",
-      "rate": ""
-    },
-    {
-      "title": "Tank",
-      "desc": "",
-      "location": "Kolkata",
-      "date": "",
-      "imageurl": "images/photographs/single/tank.jpg",
       "cluster": "singles",
       "tags": "bw",
       "rate": ""
@@ -546,16 +526,6 @@
       "location": "Kolkata",
       "date": "",
       "imageurl": "images/photographs/stories/limcastudio/studio_1.jpg",
-      "cluster": "limcastudio",
-      "tags": "color",
-      "rate": ""
-    },
-    {
-      "title": "Limca Studio",
-      "desc": "",
-      "location": "Kolkata",
-      "date": "",
-      "imageurl": "images/photographs/stories/limcastudio/studio_2.jpg",
       "cluster": "limcastudio",
       "tags": "color",
       "rate": ""
