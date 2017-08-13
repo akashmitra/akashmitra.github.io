@@ -67,7 +67,7 @@
       "desc": `<h5>Limca Studio</h5> 
               <p>Limca Studio is a "parar function" held during Durga Pujo every year. The local youth performs music ranging
               from Jazz to Rabindrasangeet. These functions are often followed by jamming in the pandel leading to a more natural musical evening.</p>
-              <p>The name comes from mock imitation of Coke Studio.
+              <p>The name is inspired from Coke Studio.
               <br>Kolkata 2015</br></p>`
     },
     {
