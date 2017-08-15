@@ -301,6 +301,26 @@
       "rate": ""
     },
     {
+      "title": "Akashbani Kolkata",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/akashbani.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Life Long Work",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/cobbler-kolkata.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
       "title": "Christmas Candles",
       "desc": "",
       "location": "Kolkata",
@@ -897,6 +917,106 @@
       "date": "",
       "imageurl": "images/photographs/stories/durgapujo/pujo_8.jpg",
       "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "A Peg of Memories",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/bbs-wine.jpg",
+      "cluster": "nesha",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Inside",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/nesha/sandy_bhasan.jpg",
+      "cluster": "nesha",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Undefeated",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/undefeated.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Blackboard",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/blackboard-classroom.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Playful",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/outreach/jspk-game.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Sandhi Pujo",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/sandhipujo.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Goddess of the City",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/durgapujo/goddess-kolkata.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Travellers of Time",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/freedom-stjohns.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Friends",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/friends-morning.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Bylanes",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/hotor-bylanes.jpg",
+      "cluster": "singles",
       "tags": "bw",
       "rate": ""
     }
