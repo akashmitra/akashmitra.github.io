@@ -8,6 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
 	<link rel="icon" href="images/favicon.png" type="image/png" sizes="16x16">
+	<link rel="image_src" href="images/favicon.png" />
 	<!-- Styles & Fonts -->
 	<link rel="stylesheet" id="fonts-css" href="css/fonts.css" type="text/css" media="screen">
 	<link rel="stylesheet" id="fonts-css" href="css/elusive-icons.css" type="text/css" media="screen">
@@ -89,7 +90,7 @@
 			<div ng-bind-html="descontent" id="desc" style="text-align: right;" ng-show="showdesc"></div>
 
 			<div id="folio" class="masonry" style="position: relative; height: 1723px;">
-				<ul class="nolist" ng-repeat="image in imageList | filter: filterCriteria">
+				<ul class="nolist" ng-repeat="image in imageList | filter: filterCriteria: filterRecent">
 
 					<li class="masonry-item">
 						<a ng-href="{{image.imageurl}}" data-lightbox="{{image.cluster}}" title="{{image.title}}">

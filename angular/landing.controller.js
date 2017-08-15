@@ -9,6 +9,7 @@
     var vm = $scope;
     vm.title = "Akash Mitra";
     vm.filterCriteria = "star"; // default show the best ones
+    vm.filterRecent = "recent"; // default show the best ones
     vm.showdesc = false;
     vm.descontent = null;
 
