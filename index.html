@@ -8,7 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
 	<link rel="icon" href="images/favicon.png" type="image/png" sizes="16x16">
-	<link rel="image_src" href="images/favicon.png" />
+	<link rel="image_src" href="images/thumbnail.png" />
 	<!-- Styles & Fonts -->
 	<link rel="stylesheet" id="fonts-css" href="css/fonts.css" type="text/css" media="screen">
 	<link rel="stylesheet" id="fonts-css" href="css/elusive-icons.css" type="text/css" media="screen">
@@ -37,7 +37,7 @@
 			<div id="site-logo">
 				<a href="#" ng-click="filterCriteria = 'star';descontent = null;">
 					<h1>{{title}}</h1>
-					<p class="desc">A Photo Journal</p>
+					<p class="desc">A Photo Journey</p>
 				</a>
 			</div>
 			<!-- /logo -->
@@ -89,8 +89,28 @@
 
 			<div ng-bind-html="descontent" id="desc" style="text-align: right;" ng-show="showdesc"></div>
 
-			<div id="folio" class="masonry" style="position: relative; height: 1723px;">
-				<ul class="nolist" ng-repeat="image in imageList | filter: filterCriteria: filterRecent">
+			<div id="recentupdates" ng-show="!descontent">
+				<div id="folio" class="masonry">
+					<h4>Recent Uploads</h4>
+					<ul class="nolist" ng-repeat="image in imageList | filter: filterRecent">
+
+						<li class="masonry-item">
+							<a ng-href="{{image.imageurl}}" data-lightbox="{{image.cluster}}" title="{{image.title}}">
+							<img ng-src="{{image.imageurl}}" alt="{{image.title}}">
+						<div class="caption">
+							<div class="caption-content">
+								<i title="Quick View" class="el el-fullscreen"></i>
+							</div>
+						</div>
+						</a>
+						</li>
+					</ul>
+				</div>
+				<hr style="margin:15px 0 10px 0;">
+			</div>
+
+			<div id="folio" class="masonry">
+				<ul class="nolist" ng-repeat="image in imageList | filter: filterCriteria">
 
 					<li class="masonry-item">
 						<a ng-href="{{image.imageurl}}" data-lightbox="{{image.cluster}}" title="{{image.title}}">
@@ -122,11 +142,11 @@
 	<script type="text/javascript" src="js/lightbox.min.js"></script>
 	<script>
 		lightbox.option({
-			'alwaysShowNavOnTouchDevices' : true,	
-			'disableScrolling' : true,
-			'imageFadeDuration' : 300,
-			'resizeDuration' : 300,
-			'wrapAround' : true
+			'alwaysShowNavOnTouchDevices': true,
+			'disableScrolling': true,
+			'imageFadeDuration': 300,
+			'resizeDuration': 300,
+			'wrapAround': true
 		})
 	</script>
 
