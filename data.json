@@ -308,7 +308,7 @@
       "imageurl": "images/photographs/single/akashbani.jpg",
       "cluster": "singles",
       "tags": "bw",
-      "rate": "star"
+      "rate": ""
     },
     {
       "title": "Life Long Work",
@@ -318,7 +318,7 @@
       "imageurl": "images/photographs/single/cobbler-kolkata.jpg",
       "cluster": "singles",
       "tags": "bw",
-      "rate": "star"
+      "rate": ""
     },
     {
       "title": "Christmas Candles",
@@ -928,7 +928,7 @@
       "imageurl": "images/photographs/stories/nesha/bbs-wine.jpg",
       "cluster": "nesha",
       "tags": "bw",
-      "rate": "star"
+      "rate": ""
     },
     {
       "title": "Inside",
@@ -948,7 +948,7 @@
       "imageurl": "images/photographs/stories/outreach/undefeated.jpg",
       "cluster": "outreach",
       "tags": "bw",
-      "rate": "star"
+      "rate": ""
     },
     {
       "title": "Blackboard",
@@ -968,7 +968,7 @@
       "imageurl": "images/photographs/stories/outreach/jspk-game.jpg",
       "cluster": "outreach",
       "tags": "bw",
-      "rate": "star"
+      "rate": ""
     },
     {
       "title": "Sandhi Pujo",
@@ -998,7 +998,7 @@
       "imageurl": "images/photographs/single/freedom-stjohns.jpg",
       "cluster": "singles",
       "tags": "bw",
-      "rate": "star"
+      "rate": ""
     },
     {
       "title": "Friends",
@@ -1008,15 +1008,175 @@
       "imageurl": "images/photographs/single/friends-morning.jpg",
       "cluster": "singles",
       "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Bylanes",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/single/hotor-bylanes.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Midnight Mass",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/midnightmass-candles.jpg",
+      "cluster": "christmaspast",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Midnight Mass",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/mass-wine.jpg",
+      "cluster": "christmaspast",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "St. Pauls Cathedral",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "",
+      "imageurl": "images/photographs/stories/christmaspast/st-pauls.jpg",
+      "cluster": "christmaspast",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Kumortuli",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/durgapujo/kumortuli-1.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Kumortuli",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/durgapujo/kumortuli-2.jpg",
+      "cluster": "durgapujo",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/limcastudio/studio_7.jpg",
+      "cluster": "limcastudio",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/limcastudio/studio_8.jpg",
+      "cluster": "limcastudio",
+      "tags": "bw",
       "rate": "star"
+    },
+    {
+      "title": "Limca Studio",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/limcastudio/studio_9.jpg",
+      "cluster": "limcastudio",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "HDCL Talhunt",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/outreach/hdcl-talhunt.jpg",
+      "cluster": "outreach",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Windows",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/outreach/shishumon-window.jpg",
+      "cluster": "outreach",
+      "tags": "bw",
+      "rate": ""
     },
     {
       "title": "Bylanes",
       "desc": "",
       "location": "Kolkata",
       "date": "recent",
-      "imageurl": "images/photographs/single/hotor-bylanes.jpg",
+      "imageurl": "images/photographs/single/bookseller.jpg",
       "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Bylanes",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/single/doors-krishnanagar.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Bylanes",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/single/gully-cricket.jpg",
+      "cluster": "singles",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Bylanes",
+      "desc": "",
+      "location": "Kolkata",
+      "date": "recent",
+      "imageurl": "images/photographs/single/urban-sadhu.jpg",
+      "cluster": "singles",
+      "tags": "color",
+      "rate": ""
+    },
+    {
+      "title": "Kuala Lumpur",
+      "desc": "",
+      "location": "Kuala Lumpur",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/rides/kualalumpur-lounge.jpg",
+      "cluster": "foodandtravel",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Kuala Lumpur",
+      "desc": "",
+      "location": "Kuala Lumpur",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/rides/kualumpur-airport.jpg",
+      "cluster": "foodandtravel",
       "tags": "bw",
       "rate": ""
     }
