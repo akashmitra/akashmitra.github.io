@@ -22,9 +22,10 @@
     
     var responsiveFix= `
     <div class="responsivefix">
-    <div>
-    <a href="about.html">About</a> | 
-    <a href="blog.html">Journal</a>
+    <div> 
+    <a href="#" ng-click="setFilterCriteria('ladakh')">Ladakh Diaries</a> |
+    <a href="about.html">About</a>
+    <!-- <a href="blog.html">Journal</a>-->
     </div>
     <br>
     <div>
