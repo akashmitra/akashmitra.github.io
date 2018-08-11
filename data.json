@@ -1,6 +1,5 @@
 {
-  "data": [
-    {
+  "data": [{
       "title": "Bidai",
       "desc": "",
       "location": "Kolkata",
@@ -1184,7 +1183,7 @@
       "title": "Sandhi Pujo",
       "desc": "",
       "location": "Kolkata",
-      "date": "recent",
+      "date": "",
       "imageurl": "images/photographs/stories/durgapujo2017/pujo_2017_1.jpg",
       "cluster": "durgapujo",
       "tags": "bw",
@@ -1194,7 +1193,7 @@
       "title": "Carousal",
       "desc": "",
       "location": "Kolkata",
-      "date": "recent",
+      "date": "",
       "imageurl": "images/photographs/stories/durgapujo2017/pujo_2017_2.jpg",
       "cluster": "durgapujo",
       "tags": "bw",
@@ -1204,7 +1203,7 @@
       "title": "Sandhi Pujo",
       "desc": "",
       "location": "Kolkata",
-      "date": "recent",
+      "date": "",
       "imageurl": "images/photographs/stories/durgapujo2017/pujo_2017_3.jpg",
       "cluster": "durgapujo",
       "tags": "bw",
@@ -1214,7 +1213,7 @@
       "title": "Dhunuchi Nach",
       "desc": "",
       "location": "Kolkata",
-      "date": "recent",
+      "date": "",
       "imageurl": "images/photographs/stories/durgapujo2017/pujo_2017_4.jpg",
       "cluster": "durgapujo",
       "tags": "bw",
@@ -1224,7 +1223,7 @@
       "title": "Dhunuchi Nach",
       "desc": "",
       "location": "Kolkata",
-      "date": "recent",
+      "date": "",
       "imageurl": "images/photographs/stories/durgapujo2017/pujo_2017_5.jpg",
       "cluster": "durgapujo",
       "tags": "bw",
@@ -1234,10 +1233,1040 @@
       "title": "Dhunuchi Nach",
       "desc": "",
       "location": "Kolkata",
-      "date": "recent",
+      "date": "",
       "imageurl": "images/photographs/stories/durgapujo2017/pujo_2017_6.jpg",
       "cluster": "durgapujo",
       "tags": "bw",
+      "rate": "star"
+    },
+    {
+      "title": "Thikshey Gompa",
+      "desc": "Thikshey Gompa",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/1.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Manali",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/2.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Rainy Day Tea",
+      "desc": "Black Ginger Tea had become a habit.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/3.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Vashisht",
+      "desc": "From our Manali AirBnb",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/4.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Fried Trout",
+      "desc": "Fried Trout in Vashisht",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/5.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "When the clouds gathered.",
+      "desc": "It wasn�t foggy� it was cloudy",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/6.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/7.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Manali at Night",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/8.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Enroute to Rohtang",
+      "desc": "On our way to Rohtang Pass",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/9.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Chamba Dhaba",
+      "desc": "Our breakfast stop.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/10.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "The Team",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/11.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Rohtang Pass (3978m)",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/12.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Rohtang Pass",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/13.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Keylong",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/14.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Hotel Chandrabhaga",
+      "desc": "The only tourism hotel we opted for during the trip.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/15.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Deepak Tal",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/16.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Baralacha La (4893m)",
+      "desc": "Baralacha La is the pass with cross roads from Spiti, Ladakh, Zanskar and Lahaul.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/17.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Hairpin Turns enroute to Baralacha La.",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/18.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Baralacha La",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/19.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Namik La",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/20.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Leh-Manali Highway",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/21.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Travellers",
+      "desc": "Somewhere near Meero",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/22.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Thukpa at Leh",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/23.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Shapta",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/24.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Shanti Stupa",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/25.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Leh City",
+      "desc": "The city of Leh from Shanti Stupa",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/26.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Leh City",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/27.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "War Memorial at Leh",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/28.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Sindu Darshan",
+      "desc": "Though the river Indus has dried up considerably in this region, during appropriate monsoon months it comes back to its original force.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/29.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Shey Palace",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/30.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Shey Palace",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/31.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Shey Palace",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/32.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Thikshey Gompa",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/33.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Thikshey Gompa",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/34.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Thikshey Gompa",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/35.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Thikshey Gompa",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/36.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Enroute to Changla La",
+      "desc": "The temperature went down drastically, while we faced cold clouds and snowfall soon.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/37.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Mountain Clouds",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/38.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Prelude to Snowfall",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/39.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Chang La (5360m)",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/40.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Enroute to Pangong Tso",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/41.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "The first sight of the Great Pangong Tso",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/42.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Cloudy Sunset Pangong Tso",
+      "desc": "We got a very cloudy Pangong Tso, which was very different but amazing nonetheless",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/43.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Pangong Tso (4350m)",
+      "desc": "The waters of the great lake was so clear, you could literally see the bottom.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/44.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Waves of Wind",
+      "desc": "Though a calm waves, due to extreme windy weather, there were waves. It was an amazing experience.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/45.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Pangong Tso",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/46.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Pangong Tso",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/47.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Pangong Tso",
+      "desc": "The cliched waves-on-my-shoes photograph",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/48.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Kailash",
+      "desc": "The caretaker of our tents and one of the most humble person I've ever seen in my life.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/49.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Enroute to Nubra",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/50.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Clouds",
+      "desc": "Clouds never stopped chasing us from places to places.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/51.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Roads of Shyok",
+      "desc": "A terribly dangerous road and equally thrilling to travel",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/52.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Soomor",
+      "desc": "A village near Nubra",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/53.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "The great wall of the north",
+      "desc": "Perhaps there are whitewalkers on the other side..or perhaps we are the whitewalkers",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/54.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Negi Brothers",
+      "desc": "The Negi brothers who was our trainer and lifeguard while we rafted in the Shyok River.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/55.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Diskit Village",
+      "desc": "The very obedient dogs of Diskit",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/56.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Diskit Gompa",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/57.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Maitreya Buddha",
+      "desc": "A 32 metre statue of Maitreya Buddha near Diskit Monastery facing down the Shyok River towards Pakistan.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/58.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Little Monks",
+      "desc": "The younglings of the Diskit Gompa.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/59.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Little Monks",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/60.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Bactrian Camels of Nubra",
+      "desc": "Oh the Swag!",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/61.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Soomor",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/62.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Nubra Ecolodge",
+      "desc": "Preparation of Fresh butter from milk",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/63.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/64.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Near Bogdan",
+      "desc": "Somwhere near Bogdan",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/65.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "A Gorkha Post",
+      "desc": "Somwhere near Bogdan",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/66.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "The Line of Control",
+      "desc": "This face of the mountain is the LOC. Amongst the clouds are Pakistan Bunkers and constant vigilance over India.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/67.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Tyaksi Thang",
+      "desc": "The northernmost village of India",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/68.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Turtuk",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/69.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "The quiet little village of Turuk",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/70.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Golden Harvest",
+      "desc": "Turtuk",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/71.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "The underground bylanes",
+      "desc": "Turtuk",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/72.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "The natural Cold Storage of Turtuk",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/73.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Authentic Balti Dishes",
+      "desc": "Balti Kitchen",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/74.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Bonfire by our host, Zakaria Bhai.",
+      "desc": "Khatrdari toh koi inse sikhey!",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/75.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Mulberries",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/76.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Turtuk",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/77.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Turtuk",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/78.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Before our journey to Khardungla",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/79.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Nubra Cold Desert",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/80.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Khardung",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/81.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Khardung La (5359m)",
+      "desc": "The highest most motorable road of the world.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/82.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Khardung La",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/83.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Coming down from Khardungla towards Leh",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/84.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Likhir",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/85.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Lamayuru Village",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/86.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Lamayuru Gompa",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/87.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Lamayuru Gompa",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/88.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Kargil",
+      "desc": "The wonderful Russian Artist at Hotel Rangyul in Kargil",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/89.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Zojila",
+      "desc": "Enroute to Srinagar, below we could see the base camps of Amarnath Travellers",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/90.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Sonmarg",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/91.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Nigeen Lake",
+      "desc": "Winds and Rains at Nigeen Lake.",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/92.jpg",
+      "cluster": "ladakh",
+      "tags": "bw",
+      "rate": ""
+    },
+    {
+      "title": "Nigeen Lake",
+      "desc": "Soon after the clouds cleared and the skies showed up a wonderful color show",
+      "location": "Ladakh",
+      "date": "",
+      "imageurl": "images/photographs/stories/ladakhdiaries/93.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": ""
+    },
+    {
+      "title": "Hundar Sand Dunes",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/94.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Leh City",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/95.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Pangong Tso",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/96.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Rohtang Pass",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/97.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Shey Palace",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/98.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Roads of Shyok",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/99.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Soomor",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/100.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Suraj Tal",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/101.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Turtuk",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/102.jpg",
+      "cluster": "ladakh",
+      "tags": "",
+      "rate": "star"
+    },
+    {
+      "title": "Turtuk",
+      "desc": "",
+      "location": "Ladakh",
+      "date": "recent",
+      "imageurl": "images/photographs/stories/ladakhdiaries/103.jpg",
+      "cluster": "ladakh",
+      "tags": "",
       "rate": "star"
     }
   ]

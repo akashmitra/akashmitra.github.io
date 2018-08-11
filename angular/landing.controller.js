@@ -9,7 +9,7 @@
     var vm = $scope;
     vm.title = "Akash Mitra";
     vm.filterCriteria = "star"; // default show the best ones
-    vm.filterRecent = "recent"; // default show the best ones
+    vm.filterRecent = "recent"; // default show the recent ones
     vm.showdesc = false;
     vm.descontent = null;
 
@@ -34,9 +34,7 @@
 
   }
 
-
-  var storydesc = [
-    {
+  var storydesc = [{
       "type": "bw",
       "desc": `<h5>Monochrome</h5> 
               <p>Kolkata </p>`
@@ -91,10 +89,18 @@
       "desc": `<h5>Food and Travel</h5> 
               <p>To travel is to eat. And to eat is to travel.</p>
               <p>Kolkata 2015</p>`
-    },{
+    }, {
       "type": "singles",
       "desc": `<h5>Singles</h5> 
               <p>Kolkata</p>`
+    }, {
+      "type": "ladakh",
+      "desc": `<h5>Ladakh Diaries</h5> 
+              <p>Ladakh ("land of high passes") is a region in the Indian state of Jammu and Kashmir that currently extends from the Kunlun mountain range to the 
+              main Great Himalayas to the south, inhabited by people of Indo-Aryan and Tibetan descent.It is one of the most sparsely populated regions in 
+              Jammu and Kashmir and its culture and history are closely related to that of Tibet. Ladakh is renowned for its remote mountain beauty and culture.</p>
+              <p>This is a collection of photographs of my trip to Ladakh on June-July 2018.
+              <br>Ladakh, Kashmir 2018</br></p>`
     }
   ];
 
